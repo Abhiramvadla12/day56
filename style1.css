@@ -63,4 +63,7 @@ h1{
       height: 40vh;
       width: 90vw;
     }
+    #overlay{
+      width: 88vw;
+    }
 }
