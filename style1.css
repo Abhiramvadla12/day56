@@ -52,3 +52,15 @@ h1{
     background-image: url('./bac.jpg');
     background-size: cover;
   }
+  @media screen and (max-width:430px){
+    *{
+        font-size: 1rem;
+    }
+    #container{
+      display: block;
+    }
+    img{
+      height: 40vh;
+      width: 90vw;
+    }
+}

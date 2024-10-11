@@ -29,3 +29,16 @@ h1{
 span{
     color: rgb(20, 231, 20);
 }
+@media screen and (max-width:430px){
+    *{
+        font-size: 1rem;
+    }
+    div{
+        width: 60vw;
+        height: 60vh;
+    }
+    img{
+        height: 100px;
+        width: 100px;
+    }
+}
